@@ -2,7 +2,7 @@
 Harmonic time series decomposition model in Google Earth Engine using Sentinel-2 imagery and OLS regression to isolate seasonal NDVI cycles and automatically flag canopy disturbances (>2.5 std residual threshold).
 # Real-Time Harmonic Deforestation Monitoring via Google Earth Engine
 
-[🚀 Launch Live Interactive Web App](https://YOUR-APP-NAME.users.earthengine.app/view/harmonic-deforestation)
+[🚀 Launch Live Interactive Web App](https://natural-night-506114-p9.projects.earthengine.app/view/harmonic-deforestation)
 
 ## Project Overview
 This project applies harmonic time-series decomposition to Sentinel-2 surface reflectance data in Google Earth Engine (GEE) to isolate baseline seasonal vegetation cycles from anthropogenic deforestation anomalies.
